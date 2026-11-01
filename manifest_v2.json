@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "org.coratech.deepseek.vela",
+    "restype": "quick_app",
+    "name": "DeepSeek",
+    "description": "跑步不想掏手机，抬腕问一句就行。\n「今晚会下雨吗?」「帮我看看这个新闻」——手表上的DeepSeek会自己联网查资料，再把答案和来源一起给你。\n还能顺手看一眼API余额。\n\n需要自备DeepSeek APIKey，应用不提供共享Key.\n·联网搜索由DeepSeek按成功请求次数计费，不用时建议关闭。\n·手表键盘输入较长Key会比较慢，建议提前把Key准备好。",
+    "preview": [
+      "media/1000243984.png"
+    ],
+    "icon": "media/1000243987.png",
+    "cover": "media/1000243988.png",
+    "author": [
+      {
+        "name": "bandbbs_1977084",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/deepseek-vela-protobuf-5.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/deepseek-vela-protobuf-5-xmrw5xring.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/deepseek-vela-protobuf-5-xmrw5xring.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
